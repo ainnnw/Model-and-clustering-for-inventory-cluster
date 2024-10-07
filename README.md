@@ -7,6 +7,10 @@ Perusahaan A merupakan perusahaan yang bergerak di bidang e-commerce yang berfok
 Tujuan dari project ini adalah menemukan rencana promosi yang efektif terhadap product yang dijual lalu menjaga stok product agar tetap tersedia dengan melihat pola penjualan dan forecasting tiap product.
 
 * <h1>Solusi yang ditawarkan </h1>
-    1.  mengidentifikasi tren penjualan produk berdasarkan keadaan aktual dan prediksi kedepannya dengan mengukur hasil prediksi menggunkan MAE.<br>
-    2.  mengelompokan setiap produk ke dalam cluster, yang bertujuan untuk memahami karakteristik product dalam transaksi.<br>
-    3.  menyusun strategi pemasaran yang efektif untuk penjualan produk, meningkatkan produk yang penjualannya di bawah rata-rata quantity global dilihat dari transaksi bulan sebelumnya.<br>
+1.  mengidentifikasi tren penjualan produk berdasarkan keadaan aktual dan prediksi kedepannya dengan mengukur hasil prediksi menggunkan MAE.<br>
+2.  mengelompokan setiap produk ke dalam cluster, yang bertujuan untuk memahami karakteristik product dalam transaksi.<br>
+3.  menyusun strategi pemasaran yang efektif untuk penjualan produk, meningkatkan produk yang penjualannya di bawah rata-rata quantity global dilihat dari transaksi bulan sebelumnya.<br>
+
+# Cluster
+metode Cluster digungakan untuk mengklompokan produk berdasarkan riwayat transaksi agar dapat melihat tren tren penjualan dari setiap product. <br>
+metode yang digunkan adalah elbow method.
